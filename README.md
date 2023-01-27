@@ -1,1 +1,1 @@
-### Using hugingface database to cearte a simple > ai.
+### Cearte a simple ai.
